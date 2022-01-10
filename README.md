@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @YarKo04
-- 👀 KPI FICT
+**Hi there** 👋🏻
 
-<!---
-YarKo04/YarKo04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# I'm an extremely passionate iOS Developer
+
+## About Me 😁
+* 📱 iOS Developer
+
+* ✨ UI / UX Enthusiast
+
+* 📖 Open-Source Contributor
+
+* 💻 One line of code at a time
+
+* ♥️ Exploring new places
+
+
+
+## Reach me via 👇🏻
+
+[![Instagram](https://raw.githubusercontent.com/Shubham0812/SearchX/master/insta.png)](https://instagram.com/yarkoxx?utm_medium=copy_link)
