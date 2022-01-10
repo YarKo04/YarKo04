@@ -7,7 +7,7 @@
 
 * ✨ UI / UX Enthusiast
 
-* 📖 Open-Source Contributor
+* 📖 Swift | JavaScript
 
 * 💻 One line of code at a time
 
