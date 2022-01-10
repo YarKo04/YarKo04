@@ -13,6 +13,9 @@
 
 * ♥️ Exploring new places
 
+## Most used language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarKo04&theme=github_dark)
+
 
 
 ## Reach me via 👇🏻
